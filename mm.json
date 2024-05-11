@@ -1,14 +1,10 @@
-
 {
-	"spider": "https://weixine.net/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+        "spider": "https://weixine.net/YSC.jar",
 	"lives": [
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sliven8/IPTV/main/v4.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],
+		    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sliven8/IPTV/main/v4.txt"
+		],
 
 	"sites":[
 {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://weixine.net/js/douban.js"},
@@ -187,8 +183,7 @@
 	    "name": "车哥", 
 	    "type": 1, 
 	    "url": "https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=", 
-	    "ext": { "flag": [ "JHA", "JHB", "mmal"] }
-	},{
+	    	},{
 	    "name": "车弟", 
 	    "type": 1, 
 	    "url": "https://xjx.tvcms.top/api/?key=a035e75110289821feec5033ffde2bec&url=", 
