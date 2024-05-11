@@ -5,7 +5,6 @@
 		    "type": 0,
 		    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sliven8/IPTV/main/v4.txt"
 		],
-
 	"sites":[
 {"key":"豆瓣","name":"🔍豆瓣荐片","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://weixine.net/js/douban.js"},
 {"key": "csp_KungFu404","name":"🎦阿里设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://weixine.net/alibaba.jar"},
@@ -77,15 +76,12 @@
 {"key":"csp_AppYsV2","name":"🚛69美剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"大师兄影视","name":"🚛大师兄影视","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/dashixiongyingshi.js"},
 {"key":"七年影视","name":"🚛七年影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"https://weixine.net/sub/qinian.json"},
-{"key": "看看剧","name": "🚛看看剧", "type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/kankanju.json"},
 {"key":"lzi","name":"🚛量子资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/liangzi.json"},
 {"key":"非凡资源","name":"🚛非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/ffzy.json"},
 {"key":"拳皇争霸","name":"🚛拳皇争霸","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/quanhuang.js"},
 {"key":"喜马拉雅","name":"👂喜马拉雅","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/ximalaya.js"},
 {"key":"有声小说吧","name":"👂有声小说吧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/youshengxiaoshuoba.json"},
 {"key":"海洋听书","name":"👂海洋听书","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/haiyangtingshu.js"},
-//{"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://weixine.net/sub/Dm84.json"},
-//{"key":"Ysj","name":"📮异世界","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/yishijie.json"},
 {"key":"纸条","name": "🖥纸条搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://weixine.net/ali.jar"},
 {"key":"阿里云盘","name": "🖥阿里云盘","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://weixine.net/ali.jar"},
 {"key":"易搜","name": "🖥易搜","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"jar":"https://weixine.net/ali.jar"},
